@@ -13,8 +13,7 @@ Pandas
 Jupyter Notebook
 VS Code
 📂 Project Files
-assignmentday4.ipynb
-README.md
+
 ▶️ Features
 Creates a sample dataset
 Displays column data types
