@@ -1,7 +1,6 @@
 📊 Pandas Data Types Assignment
 📌 Overview
 This project demonstrates the usage of the select_dtypes() method in the Pandas library using Python. The assignment focuses on selecting and filtering DataFrame columns based on their data types.
-
 🎯 Objectives
 Understand DataFrame data types
 Learn the select_dtypes() method
@@ -13,7 +12,8 @@ Pandas
 Jupyter Notebook
 VS Code
 📂 Project Files
-
+assignmentday4.ipynb
+README.md
 ▶️ Features
 Creates a sample dataset
 Displays column data types
